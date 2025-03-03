@@ -1,0 +1,14 @@
+D:\Csharp\StrukDat\bin\Debug\net9.0\StrukDat.exe
+D:\Csharp\StrukDat\bin\Debug\net9.0\StrukDat.deps.json
+D:\Csharp\StrukDat\bin\Debug\net9.0\StrukDat.runtimeconfig.json
+D:\Csharp\StrukDat\bin\Debug\net9.0\StrukDat.dll
+D:\Csharp\StrukDat\bin\Debug\net9.0\StrukDat.pdb
+D:\Csharp\StrukDat\obj\Debug\net9.0\StrukDat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\StrukDat\obj\Debug\net9.0\StrukDat.AssemblyInfoInputs.cache
+D:\Csharp\StrukDat\obj\Debug\net9.0\StrukDat.AssemblyInfo.cs
+D:\Csharp\StrukDat\obj\Debug\net9.0\StrukDat.csproj.CoreCompileInputs.cache
+D:\Csharp\StrukDat\obj\Debug\net9.0\StrukDat.dll
+D:\Csharp\StrukDat\obj\Debug\net9.0\refint\StrukDat.dll
+D:\Csharp\StrukDat\obj\Debug\net9.0\StrukDat.pdb
+D:\Csharp\StrukDat\obj\Debug\net9.0\StrukDat.genruntimeconfig.cache
+D:\Csharp\StrukDat\obj\Debug\net9.0\ref\StrukDat.dll
