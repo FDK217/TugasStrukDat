@@ -1,0 +1,15 @@
+d:\Csharp\StrukDat\.cphcsrun\obj\Release\net9.0\.cphcsrun.GeneratedMSBuildEditorConfig.editorconfig
+d:\Csharp\StrukDat\.cphcsrun\obj\Release\net9.0\.cphcsrun.AssemblyInfoInputs.cache
+d:\Csharp\StrukDat\.cphcsrun\obj\Release\net9.0\.cphcsrun.AssemblyInfo.cs
+d:\Csharp\StrukDat\.cphcsrun\obj\Release\net9.0\.cphcsrun.csproj.CoreCompileInputs.cache
+d:\Csharp\StrukDat\.cphcsrun\obj\Release\net9.0\.cphcsrun.sourcelink.json
+d:\Csharp\StrukDat\Program2_bin\.cphcsrun.exe
+d:\Csharp\StrukDat\Program2_bin\.cphcsrun.deps.json
+d:\Csharp\StrukDat\Program2_bin\.cphcsrun.runtimeconfig.json
+d:\Csharp\StrukDat\Program2_bin\.cphcsrun.dll
+d:\Csharp\StrukDat\Program2_bin\.cphcsrun.pdb
+d:\Csharp\StrukDat\.cphcsrun\obj\Release\net9.0\.cphcsrun.dll
+d:\Csharp\StrukDat\.cphcsrun\obj\Release\net9.0\refint\.cphcsrun.dll
+d:\Csharp\StrukDat\.cphcsrun\obj\Release\net9.0\.cphcsrun.pdb
+d:\Csharp\StrukDat\.cphcsrun\obj\Release\net9.0\.cphcsrun.genruntimeconfig.cache
+d:\Csharp\StrukDat\.cphcsrun\obj\Release\net9.0\ref\.cphcsrun.dll
